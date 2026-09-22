@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Image-Annotation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Annotation-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Image-Annotation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Annotation-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Image-Annotation-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Annotation-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Image-Annotation-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Image-Annotation-Platform?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,42 +56,42 @@ The global **AI Data Annotation Tools market size is estimated at ~$3.2 Billion 
 
 ## 💻 Open-Source GitHub Projects
 
-*Open-source annotation tools give machine learning engineers full ownership of data privacy, local infrastructure control, and custom labeling frontend extensibility. Sorted by GitHub star count (descending).*
+*Open-source annotation tools give machine learning engineers full ownership of data privacy, local infrastructure control, and custom labeling frontend extensibility. Sorted by GitHub Stars_Count (descending).*
 
-1. **[Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social&color=white)](https://github.com/facebookresearch/segment-anything/stargazers) 🎯  
+1. **[Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social&color=white)](https://github.com/facebookresearch/segment-anything/stargazers) 🎯  
    Meta AI's foundation model for image segmentation, revolutionizing interactive zero-shot auto-labeling across computer vision workflows.
 
-2. **[Label Studio](https://github.com/HumanSignal/label-studio)** [![GitHub stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=social&color=white)](https://github.com/HumanSignal/label-studio/stargazers) 🏷️  
+2. **[Label Studio](https://github.com/HumanSignal/label-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=social&color=white)](https://github.com/HumanSignal/label-studio/stargazers) 🏷️  
    Multi-modal open-source data labeling tool supporting images, audio, text, video, and time-series datasets with customizable UI templates.
 
-3. **[LabelImg](https://github.com/tzutalin/labelImg)** [![GitHub stars](https://img.shields.io/github/stars/tzutalin/labelImg?style=social&color=white)](https://github.com/tzutalin/labelImg/stargazers) 🖼️  
+3. **[LabelImg](https://github.com/tzutalin/labelImg)** [![GitHub_Stars](https://img.shields.io/github/stars/tzutalin/labelImg?style=social&color=white)](https://github.com/tzutalin/labelImg/stargazers) 🖼️  
    Classic lightweight desktop graphical image annotation tool for PASCAL VOC and YOLO bounding box formats.
 
-4. **[CVAT (Computer Vision Annotation Tool)](https://github.com/cvat-ai/cvat)** [![GitHub stars](https://img.shields.io/github/stars/cvat-ai/cvat?style=social&color=white)](https://github.com/cvat-ai/cvat/stargazers) 🎥  
+4. **[CVAT (Computer Vision Annotation Tool)](https://github.com/cvat-ai/cvat)** [![GitHub_Stars](https://img.shields.io/github/stars/cvat-ai/cvat?style=social&color=white)](https://github.com/cvat-ai/cvat/stargazers) 🎥  
    Leading full-featured open-source web annotation platform for computer vision: video object tracking, 3D LiDAR point clouds, polygon segmentation, and team management.
 
-5. **[Labelme](https://github.com/wkentaro/labelme)** [![GitHub stars](https://img.shields.io/github/stars/wkentaro/labelme?style=social&color=white)](https://github.com/wkentaro/labelme/stargazers) 📐  
+5. **[Labelme](https://github.com/wkentaro/labelme)** [![GitHub_Stars](https://img.shields.io/github/stars/wkentaro/labelme?style=social&color=white)](https://github.com/wkentaro/labelme/stargazers) 📐  
    Popular Python-based desktop polygon annotation tool for image dataset creation with JSON exports.
 
-6. **[FiftyOne](https://github.com/voxel51/fiftyone)** [![GitHub stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=social&color=white)](https://github.com/voxel51/fiftyone/stargazers) 📊  
+6. **[FiftyOne](https://github.com/voxel51/fiftyone)** [![GitHub_Stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=social&color=white)](https://github.com/voxel51/fiftyone/stargazers) 📊  
    Open-source dataset curation, visualization, and model debugging platform integrated with popular annotation tools.
 
-7. **[Doccano](https://github.com/doccano/doccano)** [![GitHub stars](https://img.shields.io/github/stars/doccano/doccano?style=social&color=white)](https://github.com/doccano/doccano/stargazers) 📝  
+7. **[Doccano](https://github.com/doccano/doccano)** [![GitHub_Stars](https://img.shields.io/github/stars/doccano/doccano?style=social&color=white)](https://github.com/doccano/doccano/stargazers) 📝  
    Open-source web text annotation tool, frequently paired with image tools in multimodal AI pipelines.
 
-8. **[VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/VoTT?style=social&color=white)](https://github.com/microsoft/VoTT/stargazers) 🎬  
+8. **[VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/VoTT?style=social&color=white)](https://github.com/microsoft/VoTT/stargazers) 🎬  
    Microsoft open-source electron app for video and image object detection dataset annotation.
 
-9. **[AnyLabeling](https://github.com/AnyLabeling/AnyLabeling)** [![GitHub stars](https://img.shields.io/github/stars/AnyLabeling/AnyLabeling?style=social&color=white)](https://github.com/AnyLabeling/AnyLabeling/stargazers) 🤖  
+9. **[AnyLabeling](https://github.com/AnyLabeling/AnyLabeling)** [![GitHub_Stars](https://img.shields.io/github/stars/AnyLabeling/AnyLabeling?style=social&color=white)](https://github.com/AnyLabeling/AnyLabeling/stargazers) 🤖  
    Auto-labeling desktop application powered by Segment Anything (SAM) and YOLO for rapid polygon & bounding box annotation.
 
-10. **[Make Sense](https://github.com/SkalskiP/make-sense)** [![GitHub stars](https://img.shields.io/github/stars/SkalskiP/make-sense?style=social&color=white)](https://github.com/SkalskiP/make-sense/stargazers) 🌐  
+10. **[Make Sense](https://github.com/SkalskiP/make-sense)** [![GitHub_Stars](https://img.shields.io/github/stars/SkalskiP/make-sense?style=social&color=white)](https://github.com/SkalskiP/make-sense/stargazers) 🌐  
     Free browser-based image annotation tool requiring no backend installation or data uploads.
 
-11. **[Annotorious](https://github.com/annotorious/annotorious)** [![GitHub stars](https://img.shields.io/github/stars/annotorious/annotorious?style=social&color=white)](https://github.com/annotorious/annotorious/stargazers) 🧩  
+11. **[Annotorious](https://github.com/annotorious/annotorious)** [![GitHub_Stars](https://img.shields.io/github/stars/annotorious/annotorious?style=social&color=white)](https://github.com/annotorious/annotorious/stargazers) 🧩  
     Lightweight JavaScript library for image annotation on web pages and custom frontend integrations.
 
-12. **[Scalabel](https://github.com/scalabel/scalabel)** [![GitHub stars](https://img.shields.io/github/stars/scalabel/scalabel?style=social&color=white)](https://github.com/scalabel/scalabel/stargazers) 🚗  
+12. **[Scalabel](https://github.com/scalabel/scalabel)** [![GitHub_Stars](https://img.shields.io/github/stars/scalabel/scalabel?style=social&color=white)](https://github.com/scalabel/scalabel/stargazers) 🚗  
     Scalable web-based annotation platform for 2D/3D bounding boxes, polygon segmentation, and autonomous driving video tracking.
 
 ---
